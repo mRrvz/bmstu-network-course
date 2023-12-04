@@ -69,4 +69,5 @@ dkms.conf
 *.url 
 *.svn 
 *.toc
-
+*.gz
+*.synctex.gz
